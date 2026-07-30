@@ -1,37 +1,42 @@
 # Unit 01 - Network Fundamentals
 
 ## Overview
-In this unit, I learned the basic concepts of computer networks and why networks are important in everyday life and who own hte internet.
 
-## Topics Covered
+This unit introduced the basic concepts of computer networking and explained why networks are essential in daily life.
 
-- What is a computer network?
-- Types of networks (LAN, WAN)
-- Internet and Intranet
-- Network devices
-  - Router
-  - Switch
-  - Access Point
-- End devices
-  - PC
-  - Laptop
-  - Smartphone and smart devices
-  - Server
-- Network media
-  - Copper cable
-  - Fiber optic
-  - Wireless
+## What I Learned
 
-## Key Concepts
+- What a computer network is.
+- Benefits of networking.
+- Different types of networks.
+- Common network devices.
+- End devices and their roles.
+- Basic network media.
 
-- A network allows devices to communicate and share resources.
-- Different devices have different roles in a network.
-- Networks can be small (home) or large (enterprise).
+## Key Terms
 
-## Lab Activities
+- Network
+- LAN
+- WAN
+- Internet
+- Router
+- Switch
+- Access Point
+- End Device
+- Wired Network
+- Wireless Network
 
-- Completed Unit 1 activities on Cisco Networking Academy.
-- Explored basic network components and their functions.
+## Practical Activities
+
+- Completed the Unit 1 quizzes and activities.
+- Identified common networking devices.
+- Learned the basic structure of a simple network.
+
+## Skills Gained
+
+- Understand basic networking concepts.
+- Identify common network components.
+- Explain the purpose of different network devices.
 
 ## Status
 
