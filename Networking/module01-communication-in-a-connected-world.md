@@ -1,8 +1,8 @@
-# Unit 01 - Network Fundamentals
+# Module 01 - Communication in a Connected World
 
 ## Overview
 
-This unit introduced the basic concepts of computer networking and explained why networks are essential in daily life.
+This module introduced the basic concepts of computer networking and explained why networks are important in everyday communication.
 
 ## What I Learned
 
@@ -28,7 +28,7 @@ This unit introduced the basic concepts of computer networking and explained why
 
 ## Practical Activities
 
-- Completed the Unit 1 quizzes and activities.
+- Completed the module quizzes and activities.
 - Identified common networking devices.
 - Learned the basic structure of a simple network.
 
