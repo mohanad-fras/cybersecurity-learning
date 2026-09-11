@@ -35,11 +35,15 @@ This repository contains my notes, exercises, certificates, and practical work a
 
 - [x] Module 1 - Communication in a Connected World
 - [x] Module 2 - Network Components, Types and Connections
-- [ ] Module 3 - Wireless and Mobile Networks
+- [x] Module 3 - Wireless and Mobile Networks
 
 ## Certificates
 
 - Cisco Introduction to Cybersecurity
+
+## Projects
+
+Practical projects will be added here as I build them during my university courses and self-study.
 
 ## Repository structure
 
