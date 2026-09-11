@@ -1,16 +1,19 @@
-# Unit 02 - Network Components, Types, and Connections
+# Module 02 - Network Components, Types, and Connections
 
-## 📅 Date Completed
+## Date Completed
+
 2026-08-01
 
-## 🎯 What I Learned
+## What I Learned
 
 ### Network Components
-- End devices (PCs, servers, smartphones, printers)
-- Intermediary devices (switches, routers, firewalls, wireless access points)
-- Network media (copper, fiber optic, wireless)
+
+- End devices: PCs, servers, smartphones, and printers.
+- Intermediary devices: switches, routers, firewalls, and wireless access points.
+- Network media: copper, fiber optic, and wireless.
 
 ### Network Types
+
 - LAN (Local Area Network)
 - WAN (Wide Area Network)
 - Internet
@@ -18,36 +21,35 @@
 - Extranet
 
 ### Peer-to-Peer vs Client-Server
-- Peer-to-Peer shares resources directly between devices.
+
+- Peer-to-Peer allows devices to share resources directly.
 - Client-Server uses dedicated servers to provide services.
 
 ### Internet Connections
+
 - DSL
 - Cable
 - Fiber
 - Cellular
 - Satellite
 
-### Key Concepts
+## Key Concepts
+
 - End devices generate and receive data.
 - Intermediary devices forward and manage network traffic.
-- Different network media have different speeds and distances.
+- Different network media have different speeds and transmission distances.
 
----
+## My Notes
 
-## 📝 My Notes
+- A firewall can act as an intermediary device.
+- DSL provides Internet access over telephone lines.
+- Sharing a printer directly between PCs is an example of peer-to-peer resource sharing.
 
-- A firewall is an intermediary device.
-- DSL provides high-speed Internet over telephone lines.
-- Sharing a printer from one PC is an example of a peer-to-peer network.
+## Status
 
----
+- [x] Lessons completed
+- [x] Quiz passed
 
-## ✅ Module Status
-
-- [x] Lessons Completed
-- [x] Quiz Passed
-
-## 📚 Source
+## Source
 
 Cisco Networking Academy - Networking Basics
