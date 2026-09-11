@@ -1,7 +1,13 @@
-# 📜 Certificates
+# Certificates
 
-This folder contains the certificates I have earned during my learning journey.
+This folder contains certificates earned during my cybersecurity learning journey.
 
 ## Cisco
 
-- Introduction to Cybersecurity
+### Introduction to Cybersecurity
+
+Completed the Cisco Introduction to Cybersecurity course.
+
+Certificate file:
+
+`Introduction_to_Cybersecurity_certificate.pdf`
