@@ -1,31 +1,40 @@
-# 🐍 Python Basics
+# Python Basics
 
 My learning journey through **Python Essentials 1 (PE1)** from Cisco Networking Academy and Python Institute.
 
-## 📚 Course
+## Course
 
-- **Course:** Python Essentials 1
-- **Provider:** Cisco Networking Academy / Python Institute
-- **Language:** Python
+- Course: Python Essentials 1
+- Provider: Cisco Networking Academy / Python Institute
+- Language: Python
 
-## 📊 Progress
+## Progress
 
 | Module | Topic | Status |
 |---|---|---|
-| Module 1 | Introduction to Python and Computer Programming | ✅ Completed |
-| Module 2 | Python Data Types, Variables, Operators, and Basic I/O Operations | 🟡 In Progress |
+| Module 1 | Introduction to Python and Computer Programming | Completed |
+| Module 2 | Data Types, Variables, Operators and Basic I/O Operations | In Progress |
 
-## 📁 Structure
+## What I Practice
+
+- Python syntax and program structure
+- Basic data types
+- Variables and operators
+- Input and output
+- Small exercises to improve programming fundamentals
+
+## Structure
 
 ```text
 Python-Basics/
-│
 ├── README.md
-│
 ├── module01-introduction-to-python-and-computer-programming.md
-│
 ├── module02-python-data-types-variables-operators-and-basic-io-operations.md
-│
 └── exercises/
-    ├── module01/
-    └── module02/
+    ├── module01
+    └── module02
+```
+
+## Goal
+
+Build a solid Python foundation and later use Python for networking and cybersecurity projects.
